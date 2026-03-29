@@ -16,7 +16,7 @@ This repository is organized into the following sections for Internship evaluati
 ### 1. Planning & Agile Documentation
 * **Architecture:** [Architecture Diagram](./architecture.gif)
 * **Agile Docs:** [Link to your Agile/Project Management file]
-* **PPT:** [Link to your Presentation file]
+* **PPT:** [Project Presentation](./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.pptx)
 
 ### 2. Research & Tasks
 * **Model Research:** [Detailed Research PDF](./Model%20Research.pdf)
