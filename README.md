@@ -11,7 +11,7 @@ This repository contains the complete documentation, research, and project manag
 
 ## 📂 Project Structure & Deliverables
 
-This repository is organized into the following sections for institute evaluation:
+This repository is organized into the following sections for Internship evaluation:
 
 ### 1. Planning & Agile Documentation
 * **Architecture:** [Architecture Diagram](./architecture.gif)
