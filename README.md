@@ -29,6 +29,6 @@ The actual development, frontend, and deployment logic are maintained in the **[
 ---
 
 ## 🛠 Tech Stack
-* **Documentation:** Markdown, LaTeX (for research).
+* **Documentation:** Microsoft Word(for research), Microsoft Excel sheet (for agile doc).
 * **Development:** React, TypeScript, Vite, Tailwind CSS.
 * **Analysis:** Python (Pandas/NumPy), SQL.
