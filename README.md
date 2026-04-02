@@ -5,7 +5,7 @@ This repository contains the complete documentation, research, and project manag
 ## 🚀 Quick Links
 * **Live Demo:** [cybernexus-seven.vercel.app](https://cybernexus-seven.vercel.app/)
 * **Development Repository:** [View Source Code on GitHub](https://github.com/Arpita0704AD2110/Cybernexus)
-* **Project Video Demo:** <video src="./Recorded_Demo.mp4" controls width="100%"></video>
+* **Project Video Demo:** <video src="https://github.com/Arpita0704AD2110/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard/blob/main/Demo_Video.mp4" controls width="100%"></video>
 
 ---
 
