@@ -2,11 +2,21 @@
 
 This repository contains the complete documentation, research, and project management assets for the CyberNexus platform.
 
+---
+
 ## 🚀 Quick Links
-* **Live Demo:** [cybernexus-seven.vercel.app](https://cybernexus-seven.vercel.app/)
-* **Development Repository:** [View Source Code on GitHub](https://github.com/Arpita0704AD2110/Cybernexus)
-* **Project Video Demo:**
-[![CyberNexus Demo](./Thumbnail_video.gif)](https://youtu.be/sBJhliq4JqA)
+
+* 🌐 **Live Demo:** [cybernexus-seven.vercel.app](https://cybernexus-seven.vercel.app/)
+* 💻 **Development Repository:** [View Source Code on GitHub](https://github.com/Arpita0704AD2110/Cybernexus)
+
+### 🎥 Project Video Demo
+*Click the preview below to watch the full demo on YouTube:*
+
+<div align="center">
+  <a href="https://youtu.be/sBJhliq4JqA">
+    <img src="./Thumbnail_video.gif" alt="CyberNexus Demo">
+  </a>
+</div>
 
 ---
 
@@ -15,9 +25,13 @@ This repository contains the complete documentation, research, and project manag
 This repository is organized into the following sections for Internship evaluation:
 
 ### 1. Planning & Agile Documentation
-* **Architecture:** ![Architecture Diagram](./architecture.gif)
 * **Agile Docs:** [Agile Documentation](./Agile_Team_B2.xlsx)
 * **PPT:** [Project Presentation](./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.pptx)
+
+**System Architecture Diagram:**
+<div align="center">
+  <img src="./architecture.gif" alt="Architecture Diagram">
+</div>
 
 ### 2. Research & Tasks
 * **Model Research:** [Detailed Research PDF](./Model%20Research.pdf)
@@ -30,6 +44,7 @@ The actual development, frontend, and deployment logic are maintained in the **[
 ---
 
 ## 🛠 Tech Stack
-* **Documentation:** Microsoft Word(for research), Microsoft Excel sheet (for agile doc).
-* **Development:** React, TypeScript, Vite, Tailwind CSS.
-* **Analysis:** Python (Pandas/NumPy), SQL.
+
+* **Documentation:** Microsoft Word (for research), Microsoft Excel (for agile doc)
+* **Development:** React, TypeScript, Vite, Tailwind CSS
+* **Analysis:** Python (Pandas/NumPy), SQL
