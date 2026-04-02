@@ -6,6 +6,7 @@ This repository contains the complete documentation, research, and project manag
 * **Live Demo:** [cybernexus-seven.vercel.app](https://cybernexus-seven.vercel.app/)
 * **Development Repository:** [View Source Code on GitHub](https://github.com/Arpita0704AD2110/Cybernexus)
 * **Project Video Demo:** [![Watch the video](./logo.jpg)](https://youtu.be/sBJhliq4JqA)
+* **Project Video Demo:** [![Watch the full Demo](./architecture.gif)](https://youtu.be/sBJhliq4JqA)
 
 ---
 
