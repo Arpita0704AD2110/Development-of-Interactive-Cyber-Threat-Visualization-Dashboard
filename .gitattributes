@@ -1,3 +1,0 @@
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-Recorded[[:space:]]Demo.mp4 filter=lfs diff=lfs merge=lfs -text
-Recorded_Demo.mp4 filter=lfs diff=lfs merge=lfs -text
