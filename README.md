@@ -10,11 +10,11 @@ This repository contains the complete documentation, research, and project manag
 * 💻 **Development Repository:** [View Source Code on GitHub](https://github.com/Arpita0704AD2110/Cybernexus)
 
 ### 🎥 Project Video Demo
-*Click the preview below to watch the full demo on YouTube:*
+*Click the preview below to watch the full 14-minute demo on YouTube:*
 
 <div align="center">
   <a href="https://youtu.be/sBJhliq4JqA">
-    <img src="./Thumbnail_video.gif" alt="CyberNexus Demo">
+    <img src="./Thumbnail_video.gif" alt="CyberNexus Demo" width="100%">
   </a>
 </div>
 
@@ -30,7 +30,7 @@ This repository is organized into the following sections for Internship evaluati
 
 **System Architecture Diagram:**
 <div align="center">
-  <img src="./architecture.gif" alt="Architecture Diagram">
+  <img src="./architecture.gif" alt="Architecture Diagram" width="100%">
 </div>
 
 ### 2. Research & Tasks
