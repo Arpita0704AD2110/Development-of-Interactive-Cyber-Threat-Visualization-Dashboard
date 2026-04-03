@@ -24,13 +24,14 @@ This repository is organized into the following sections for Internship evaluati
 
 ### 1. Planning & Agile Documentation
 * **Agile Docs:** [Agile Documentation](./Agile_Team_B2.xlsx)
-* **Download PPT:** [Project Presentation File (.pptx)](./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.pptx)
 
 **Project Presentation Slides:**
 <div align="center">
   <img src="./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.gif" alt="Presentation Slides" width="100%">
 </div>
 
+* **Download PPT:** [Project Presentation File (.pptx)](./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.pptx)
+  
 * **System Architecture Diagram:**
 <div align="center">
   <img src="./architecture.gif" alt="Architecture Diagram" width="100%">
