@@ -4,6 +4,9 @@ This repository contains the complete documentation, research, and project manag
 
 ---
 
+https://github.com/user-attachments/assets/99fa489a-a87a-4629-8e0c-038b057edeb4
+
+
 ## 🚀 Quick Links
 
 * 🌐 **Live Demo:** [cybernexus-seven.vercel.app](https://cybernexus-seven.vercel.app/)
