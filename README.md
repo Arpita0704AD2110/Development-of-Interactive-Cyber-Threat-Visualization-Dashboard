@@ -31,7 +31,7 @@ This repository is organized into the following sections for Internship evaluati
   <img src="./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.gif" alt="Presentation Slides" width="100%">
 </div>
 
-**System Architecture Diagram:**
+* **System Architecture Diagram:**
 <div align="center">
   <img src="./architecture.gif" alt="Architecture Diagram" width="100%">
 </div>
