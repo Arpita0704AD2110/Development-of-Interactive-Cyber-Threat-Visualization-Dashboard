@@ -4,26 +4,16 @@ This repository contains the complete documentation, research, and project manag
 
 ---
 
-https://github.com/user-attachments/assets/99fa489a-a87a-4629-8e0c-038b057edeb4
-
-
-
-https://github.com/user-attachments/assets/caa2e591-4f3f-44a5-9f2c-f7f6ced6f687
-
-
 ## 🚀 Quick Links
 
 * 🌐 **Live Demo:** [cybernexus-seven.vercel.app](https://cybernexus-seven.vercel.app/)
 * 💻 **Development Repository:** [View Source Code on GitHub](https://github.com/Arpita0704AD2110/Cybernexus)
 
 ### 🎥 Project Video Demo
-*Click the preview below to watch the full 14-minute demo on YouTube:*
+*Click the preview below to watch the full high quality demo on YouTube:*
 
-<div align="center">
-  <a href="https://youtu.be/sBJhliq4JqA">
-    <img src="./Thumbnail_video.gif" alt="CyberNexus Demo" width="100%">
-  </a>
-</div>
+
+https://github.com/user-attachments/assets/caa2e591-4f3f-44a5-9f2c-f7f6ced6f687
 
 ---
 
