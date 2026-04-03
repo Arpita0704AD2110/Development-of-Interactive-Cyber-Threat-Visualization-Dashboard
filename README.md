@@ -31,6 +31,9 @@ This repository is organized into the following sections for Internship evaluati
   <img src="./architecture.gif" alt="Architecture Diagram" width="100%">
 </div>
 
+
+![Image](https://github.com/user-attachments/assets/7d4c4468-f47f-4b35-baed-63146e33c039)
+
 ### 2. Research & Tasks
 * **Model Research:** [Detailed Research PDF](./Model%20Research.pdf)
 * **Python Implementation:** [Jupyter Notebook](./Python_Task.ipynb)
