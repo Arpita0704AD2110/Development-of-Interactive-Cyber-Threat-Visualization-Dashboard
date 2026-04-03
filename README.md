@@ -10,8 +10,9 @@ This repository contains the complete documentation, research, and project manag
 * 💻 **Development Repository:** [View Source Code on GitHub](https://github.com/Arpita0704AD2110/Cybernexus)
 
 ### 🎥 Project Video Demo
-*Click the preview below to watch the full high quality demo on YouTube:*
+*The video below is a compressed preview. For the best experience and full resolution, please view it on YouTube.*
 
+🔗 **[Click Here to Watch the Full High-Quality Demo on YouTube](https://youtu.be/sBJhliq4JqA)**
 
 https://github.com/user-attachments/assets/caa2e591-4f3f-44a5-9f2c-f7f6ced6f687
 
